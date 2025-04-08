@@ -3,9 +3,9 @@
 
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
-Live : https://naveedtrendz.ccbp.tech//
-id : rahul/
-psw : rahul@2021
+Live : https://naveedtrendz.ccbp.tech/
+- id : rahul/
+- psw : rahul@2021
 
 ### Refer to the video below:
 
